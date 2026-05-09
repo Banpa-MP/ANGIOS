@@ -1,6 +1,0 @@
-app_name = "bania"
-app_title = "Bania IA"
-app_publisher = "BaniaIA"
-app_description = "Microservicio de Inteligencia Artificial para aplicaciones clinicas."
-app_email = "sistemas@banpa.com"
-app_license = "mit"
